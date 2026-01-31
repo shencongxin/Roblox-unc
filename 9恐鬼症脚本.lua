@@ -3,8 +3,8 @@ local ThemeManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/deividcomsono/Obsidian/main/addons/SaveManager.lua"))()
 
 local Window = Library:CreateWindow({
-    Title = "恐鬼症 - 局内 euphoria开源",
-    Footer = "付费版[正式版]",
+    Title = "恐鬼症 - 受着",
+    Footer = "受着[正式版]",
     ToggleKeybind = Enum.KeyCode.C,
     Center = true,
     AutoShow = true,
